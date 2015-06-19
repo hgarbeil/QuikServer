@@ -3,7 +3,7 @@
 # Project created by QtCreator 2014-03-31T10:32:22
 #
 #-------------------------------------------------
-
+# Harold Garbeil 
 QT       += core gui network
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
